@@ -61,6 +61,13 @@ The trained model needs a water pump’s features as an input
 -   You can find predic-test.py script in project's folder for test the model
 -   You will find a Docker file in the folder.  
 
+
+## Downloading the model
+
+You can find/download the model in the link. It is too big for github.
+
+https://drive.google.com/file/d/1oGtGfy3FOiCiwX_UshHEhNBpl4FEVjCs/view?usp=share_link
+
 ## Dependencies   (How to run the project)
 For use the project you need some dependencies:
 - First of all you need Python in your computer.
