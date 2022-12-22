@@ -23,6 +23,8 @@ Valid : Contains 3,500 validation images, with each class having 400 images.
 
 Test : Contains 1,500 validation images, with each class having 100/200 images.
 
+You can find full dataset download link in the project notebook.
+
 Considering training time i used small version of this data.
 
  
