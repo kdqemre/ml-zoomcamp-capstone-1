@@ -6,6 +6,17 @@ Emre Ozturk
 Using data Fast Food Classification Dataset - V2 we will classiffy the fast foods.
 We have 10 classes.
 
+ Baked Potato': 0,
+ 'Burger': 1,
+ 'Crispy Chicken': 2,
+ 'Donut': 3,
+ 'Fries': 4,
+ 'Hot Dog': 5,
+ 'Pizza': 6,
+ 'Sandwich': 7,
+ 'Taco': 8,
+ 'Taquito': 9}
+
 Train : Contains 15,000 training images, with each class having 1,500 images.
 
 Valid : Contains 3,500 validation images, with each class having 400 images.
