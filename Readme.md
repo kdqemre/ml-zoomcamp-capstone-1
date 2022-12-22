@@ -54,7 +54,7 @@ In the project folder you will find train.py , predict.py , trained model file a
 The trained algorithm needs a fast foods image as an input. Remember Input data also needs preprocessing .
 -	If you want to use the project locally, load and use the pre-trained model file.
 
-The trained model needs a water pump’s features as an input
+The trained model needs an image as an input
 -	If you want to tune the model and use different algorithms you can use train.py script
 -	In the project's notebook you can see pre-processing and modelling.
 -	If you want to use the model as a web service, you can use predict.py script. You should send a post request as an input and have to be json file.  
