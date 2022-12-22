@@ -12,6 +12,8 @@ Valid : Contains 3,500 validation images, with each class having 400 images.
 
 Test : Contains 1,500 validation images, with each class having 100/200 images.
 
+Considering training time i used small version of this data.
+
  
 ## Preprocessing:
 IMPORTANT NOTE: Remember Input data also needs preprocessing for to use model and get correct predictions. 
@@ -52,9 +54,14 @@ For use the project you need some dependencies:
 - tensorflow: You need to install this library for load and use the model. It is essential for use the pre trained model.
 - If you want to use the project’s notebook  you need to install some libraries:
 Numpy , pandas, tensorflow.
--requriments.txt file includes all dependincies.
+
+-`requriments.txt` file includes all dependincies.
 
 ## How to install dependencies (for windows):
+
+installing all dependincies with requirements.txt 
+in your enviroment
+`pip install -r requirements.txt`
 
 First in cmd you can create a virtual environment:
 
@@ -82,11 +89,10 @@ or
 
 pip install pandas
 
-Installing Sklearn:
+Installing tensorflow:
 
 In your virtual environment:
 
-pip install -U scikit-learn
 
 pip install tensorflow
 
